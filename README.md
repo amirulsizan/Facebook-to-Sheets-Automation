@@ -1,7 +1,7 @@
 # Facebook to Google Sheets Automation 📊
 
 This Python script automates the process of extracting post performance data from a Facebook Page (via the Graph API) and writing it into a Google Sheet.
-Facebook to Google Sheets Automation is a Python-based tool that connects the Facebook Graph API with Google Sheets to seamlessly export Facebook post analytics. It fetches post links, publish dates, reach, impressions, and engagement metrics—making it easy to analyze performance, track trends, or archive data for reporting.
+It fetches post links, publish dates, reach, impressions, and engagement metrics—making it easy to analyze performance, track trends, or archive data for reporting.
 Ideal for digital marketers, content managers, and analysts who want a lightweight, code-driven solution without relying on paid automation platforms.
 
 ## 📌 Features
