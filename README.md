@@ -34,4 +34,3 @@ Facebook API access is subject to change and may require additional app reviews 
 ### 🙌 Contribution
 Feel free to fork, improve, and PR!
 ---
-Let me know if you want me to zip this up for download or walk you through publishing the repo on GitHub. I can help you name it, write a good project description, or even draft a license file if you want to open-source it.
